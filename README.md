@@ -1,4 +1,4 @@
-# YoutubeSearchClutterRemoval
+# Youtube Search Clutter Removal
 How to remove "related to your search", "related movies", "for you" and similar from your YouTube search results.
 
 The following lines can be used in uBlock Origin to clean up your search results and starting page.
