@@ -1,0 +1,21 @@
+! Search Results
+www.youtube.com##ytd-shelf-renderer.style-scope:has(span:has-text(/For you/i))
+www.youtube.com##ytd-shelf-renderer.style-scope:has(span:has-text(/People also watched/i))
+www.youtube.com##ytd-horizontal-card-list-renderer.ytd-item-section-renderer.style-scope:has(span:has-text(/People also search for/i))
+www.youtube.com##ytd-shelf-renderer.style-scope:has(span:has-text(/Previously watched/i))
+www.youtube.com##ytd-shelf-renderer.style-scope:has(span:has-text(/Related to your search/i))
+www.youtube.com##ytd-horizontal-card-list-renderer.ytd-item-section-renderer.style-scope:has(span:has-text(/Searches related to/i))
+www.youtube.com##ytd-shelf-renderer.style-scope:has(span:has-text(/Related Movies/i))
+www.youtube.com##ytd-horizontal-card-list-renderer.ytd-item-section-renderer.style-scope:has(span:has-text(/People also search for/i))
+www.youtube.com##ytd-shelf-renderer.ytd-item-section-renderer.style-scope:nth-of-type(1):has(span:has-text(/Latest from/i))
+! Music secondary / Related Videos
+www.youtube.com###secondary
+
+! Home
+www.youtube.com##ytd-horizontal-card-list-renderer.ytd-item-section-renderer.style-scope:has(span:has-text(/People also watched/i))
+www.youtube.com##contents.ytd-shelf-renderer.style-scope:has(span:has-text(/People also watched/i))
+www.youtube.com##ytd-shelf-renderer.ytd-item-section-renderer.style-scope:has(span:has-text(/Watch again/i))
+www.youtube.com###star-survey
+www.youtube.com###merch-shelf > .ytd-watch-flexy.style-scope
+! Keyword Bar
+www.youtube.com###scroll-container > .ytd-feed-filter-chip-bar-renderer.style-scope
